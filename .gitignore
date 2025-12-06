@@ -1,0 +1,5 @@
+test/
+.vscode/
+**/*_inp*
+**/pt1
+**/pt2
